@@ -15,6 +15,12 @@
 （6）tooth.h是用于牙齿编号和缺失识别的牙齿类相关头文件
 ### 3. pre.pptx, demo.avi, report.pdf  
 ### 4. 系统框架 + Vtk流水线  
-![image](https://github.com/fjygf/-/blob/master/img/1-系统框架.png)
+![image](https://github.com/fjygf/-/blob/master/img/1-系统框架.png)  
+![image](https://github.com/fjygf/-/blob/master/img/2-VTK流水线.png)
 ### 5. UI  
+![image](https://github.com/fjygf/-/blob/master/img/3-读取整口牙%2B去除牙龈.png)
+![image](https://github.com/fjygf/-/blob/master/img/4-提取连通分量%2B绘制包围盒.png)
+![image](https://github.com/fjygf/-/blob/master/img/5-FDI牙位标记法%2B缺失情况显示.png)
+![image](https://github.com/fjygf/-/blob/master/img/6-牙齿轴向绘制.png)
+![image](https://github.com/fjygf/-/blob/master/img/7-牙齿曲率分析.png)
 
