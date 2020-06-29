@@ -13,5 +13,8 @@
 （4）Widget.h中设置相应的8个按钮的button slot函数  
 （5）Widget.cpp中是具体实现，包括牙齿模型/去除牙龈/连通分量提取/包围盒/FDI牙位标记法/牙齿缺失情况/牙齿数量/轴向8个按钮  
 （6）tooth.h是用于牙齿编号和缺失识别的牙齿类相关头文件
-### 3. pre.pptx, demo.avi, report.pdf
+### 3. pre.pptx, demo.avi, report.pdf  
+### 4. 系统框架 + Vtk流水线  
+![image](https://github.com/fjygf/-/blob/master/img/1-系统框架.png)
+### 5. UI  
 
