@@ -1,6 +1,6 @@
 # -
-计算机图形学课程设计，选题：Identification of dental models
-#
+计算机图形学-课程设计
+    选题：Identification of dental models
 1.开发环境VS 2017 + Vtk 8.2.0 + Qt 5.13.2:
 环境配置参考 https://blog.csdn.net/wilsonass/article/details/89192007
 （1）安装Visual Studio 2017
