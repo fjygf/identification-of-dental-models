@@ -3,7 +3,7 @@
 ###### Course grade: 98/100
 ### 1. 环境配置
 参考 https://blog.csdn.net/wilsonass/article/details/89192007  
-（1）安装Visual Studio 2017、Qt 5.13.2、Cmake
+（1）安装Visual Studio 2017、Qt 5.13.2、Cmake  
 （2）VS中安装Qt扩展插件  
 （3）编译安装Vtk 8.2.0：Cmake选择路径，Configue和Generate，VS打开之后再重新生成
 ### 2. 代码说明
