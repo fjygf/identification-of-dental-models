@@ -1,6 +1,6 @@
 # Identification of dental models  
 ###### SJTU-CS337 Computer Graphics Course Project 
-Course grade: 98/100
+###### Course grade: 98/100
 ### 1. 环境配置
 参考 https://blog.csdn.net/wilsonass/article/details/89192007  
 （1）安装Visual Studio 2017、Qt 5.13.2、Cmake
